@@ -23,7 +23,7 @@
       print("<p>Yes, you have a cat.  It's a dick who happens to be ".$yourCat->getCatAge()." years old.</p?");
     }
     else
-      print("<p>Congratulations, you don't have a cat, and thus it's not a dick.</p>");
+      print("<p>Congratulations, you don't have a cat, and thus it is not a dick.</p>");
 ?>
 </body>
 </html>
